@@ -12,7 +12,7 @@
   "dependencies": {
     "@hackclub/banner": "^1.0.1",
     "@hackclub/meta": "^1.1.0",
-    "@hackclub/theme": "^0.3.1",
+    "@hackclub/theme": "^0.3.3",
     "@mdx-js/loader": "^1.6.22",
     "@next/mdx": "^10.0.4",
     "next": "^11.0.0",
@@ -25,6 +25,6 @@
     "@types/react": "^17.0.11",
     "eslint": "^7.29.0",
     "eslint-config-next": "^11.0.0",
-    "typescript": "^4.3.2"
+    "typescript": "^4.4.4"
   }
 }
